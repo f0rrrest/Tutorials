@@ -1,2 +1,5 @@
 # Tutorials
-Guides to the syntax of every language I've learned
+### Languages:
+- Java
+- JavaScript
+- Python
